@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../python111"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
